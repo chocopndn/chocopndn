@@ -3,7 +3,7 @@
 <p><em>Student and a freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Mail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chocopndn@gmail.com)](mailto:chocopndn@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/gmail-ea4335.svg?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:chocopndn@gmail.com)](mailto:chocopndn@gmail.com)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
